@@ -17,6 +17,10 @@
 //////////////////////////////////////////////////////////////////////////////////
 #pragma once
 
+#include <string>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
 #include <map>
 
 namespace ms

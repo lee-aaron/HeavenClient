@@ -17,6 +17,10 @@
 //////////////////////////////////////////////////////////////////////////////////
 #pragma once
 
+#include <string>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
 #include "../Error.h"
 
 #include "../Template/Singleton.h"

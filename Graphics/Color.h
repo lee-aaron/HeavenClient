@@ -1,3 +1,4 @@
+
 //////////////////////////////////////////////////////////////////////////////////
 //	This file is part of the continued Journey MMORPG client					//
 //	Copyright (C) 2015-2019  Daniel Allendorf, Ryan Payton						//
@@ -19,7 +20,10 @@
 
 #define GLEW_STATIC
 #include <glew.h>
-
+#include <string>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
 #include <array>
 
 namespace ms

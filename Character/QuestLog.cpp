@@ -16,6 +16,10 @@
 //	along with this program.  If not, see <https://www.gnu.org/licenses/>.		//
 //////////////////////////////////////////////////////////////////////////////////
 #include "QuestLog.h"
+#include <string>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
 
 namespace ms
 {

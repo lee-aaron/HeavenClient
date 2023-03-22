@@ -16,7 +16,10 @@
 //	along with this program.  If not, see <https://www.gnu.org/licenses/>.		//
 //////////////////////////////////////////////////////////////////////////////////
 #pragma once
-
+#include <string>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
 #include "EquipStat.h"
 
 #include "Inventory/Weapon.h"

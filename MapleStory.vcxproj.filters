@@ -683,9 +683,6 @@
     <ClInclude Include="Character\PlayerStates.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Character\Questlog.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Character\SkillBook.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -1281,6 +1278,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="IO\UITypes\UICommonCreation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QuestLog.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
